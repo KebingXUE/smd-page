@@ -1,4 +1,4 @@
-# Nerfies
+# SMD
 
 This is the repository that contains source code for the SMD.
 
